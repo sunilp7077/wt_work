@@ -2,3 +2,7 @@ cmd after creating new folder in cmd prompt to create json file
 >> npm init
 cmd to downloa express in given file 
 >> npm install express --save
+
+//finally search for localhost:4000 
+// will get website and show
+
